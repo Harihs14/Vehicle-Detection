@@ -17,6 +17,11 @@ pip install ultralytics opencv-python
 Download the YOLOv8 model weights (replace 'final.pt' with your actual model path).
 Run the script: python vehicle_detection.py
 
+
+Dataset:
+
+https://public.roboflow.com/object-detection/vehicles-openimages/1#
+
 Note:
 
 Adjust the webcam index in the code if you are using a different webcam.
